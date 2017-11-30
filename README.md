@@ -6,6 +6,6 @@ public class GitHub() {
   }
   
   public static void main(String args[]) {
-    System.out.printls("第一个github程序！！！");
+    System.out.printls("第一个github程序！！！！");
   }
 }
